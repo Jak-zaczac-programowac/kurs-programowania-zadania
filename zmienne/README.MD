@@ -1,6 +1,6 @@
 # Zmienne - zadania
 
-Korzystając z wiedzy zdobytej w rozdziale o zmiennych rozwiąz następujce zadania:
+Korzystając z wiedzy zdobytej w sekcji **Zmienne** rozwiąz następujce zadania:
 
  1. Zmienną **C**, która będzie reprezentować prędkość światła. Przyjmij, ze prędkość światła to **299792458**,
  2. Wypisz wartość zmiennej **C** na konsolę,

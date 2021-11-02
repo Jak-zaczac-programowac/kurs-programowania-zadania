@@ -1,6 +1,6 @@
 # Funkcje - zadania
 
-Korzystając z wiedzy z segmentu o funkcjach, napisz następujące funkcje:
+Korzystając z wiedzy z segmentu **Funkcje**, napisz następujące funkcje:
 
 1. Napisz funkcję, która przemnoży liczbę przekazaną w parametrze przez dwa i wypisze wynik na konsolę. 
 2. Napisz funkcję, która przemnoży liczbę przekazaną w parametrze przez dowolną liczbę, przekazaną w kolejnym parametrze. 

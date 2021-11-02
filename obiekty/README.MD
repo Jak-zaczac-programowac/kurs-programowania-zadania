@@ -1,6 +1,6 @@
 # Obiekty - zadania
 
-Korzystając z wiedzy zdobytej w rozdziale o obiektach stwórz dwa obiekty reprezentujące **dwa** samochody.
+Korzystając z wiedzy zdobytej w sekcji **Obiekty** stwórz dwa obiekty reprezentujące **dwa** samochody.
 Obiekty powinny składać się z trzech właściwości:
 
  1. marki pojazdu (nazwa właściwości **mark**),
